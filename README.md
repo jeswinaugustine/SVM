@@ -1,2 +1,2 @@
 # SVM
- Understandin SVM in depth with code !
+ Understanding SVM in depth with code !
